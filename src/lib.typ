@@ -96,7 +96,7 @@
     block[
       #set align(top)
       #grid(
-        columns: (1.7fr, 1pt, 1fr),
+        columns: (1.7fr, 1pt, auto),
         row-gutter: 10pt,
         valid_array(students)[_Aluno:_],
         [],
